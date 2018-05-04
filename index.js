@@ -54,7 +54,7 @@ module.exports = (subnetComputers, network, mask) => {
 				i++;
 				counter = counter << 1;
 				counter++;
-			} while(counter - 2 < count);
+			} while(counter - 1 < count);
 
 			return {
 				computerCount: count,
