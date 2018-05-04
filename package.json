@@ -1,0 +1,10 @@
+{
+  "name": "subneter",
+  "version": "0.0.0",
+  "description": "Util for calculating subnets",
+  "main": "index.js",
+  "repository": "https://github.com/nemanjan00/subneter",
+  "author": "nemanjan00",
+  "license": "MIT",
+  "private": false
+}
