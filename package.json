@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "ip": "^1.1.5"
+    "ip": "^1.1.9"
   }
 }
